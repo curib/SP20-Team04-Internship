@@ -1,0 +1,19 @@
+{
+  "name": "sp20-team04-internship",
+  "version": "1.0.0",
+  "description": "spring 2020 senior project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curib/SP20-Team04-Internship.git"
+  },
+  "author": "carolina uribe and chris rodriquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curib/SP20-Team04-Internship/issues"
+  },
+  "homepage": "https://github.com/curib/SP20-Team04-Internship#readme"
+}
